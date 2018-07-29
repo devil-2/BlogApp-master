@@ -1,0 +1,54 @@
+.logoDiv {
+  margin: 0 auto;
+  text-align: center;
+  
+  .logo {
+    width: 200px;
+    font-size: 12px;
+    z-index: 999;
+  }
+}
+.wrap {
+  white-space: normal !important;
+}
+
+.tag {
+  background-color: rgba(255, 194, 14, 0.5);
+  font-size: 12px;
+  line-height: 2.83;
+  letter-spacing: -0.2px;
+  color: #444444;
+  padding: 4px 6px 4px 6px;
+  border-radius: 1px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+.date{color: #888888}
+.page-brand{
+.scroll-content{
+  background: url(../assets/images/bg.png) !important;
+}
+}
+
+.menu-inner{
+  color: $white !important;
+  .scroll-content{
+   background-color: $darkBrand !important;
+}
+.toolbar-background{
+   background-color: $darkBrand !important;
+  color: $white !important;
+}
+.toolbar-title{
+   color: $white !important;
+}
+button{
+  background-color: $darkBrand !important;
+   color: $white !important;
+   text-transform: uppercase;
+}
+}
+
+.header-brand{
+  border-bottom:solid 3px $darkBrand;
+}
